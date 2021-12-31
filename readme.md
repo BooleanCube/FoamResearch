@@ -1,3 +1,5 @@
+> Use vim-wiki on neovim instead
+
 # Foam
 
 👋 Welcome to your new Foam Workspace!
